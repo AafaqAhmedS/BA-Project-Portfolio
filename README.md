@@ -16,7 +16,7 @@ This repository serves as a central hub for my structured BA artifacts, framewor
 
 ## 📁 Featured Case Studies & Artifacts
 
-### 🔹 [Case Study](./AafaqAhmed_CaseStudy.pdf)
+### 🔹 [Case Study](./AafaqAhmed_CaseStudy.pdf) Click on the Case Study to view it
 An end-to-end framework breakdown detailing the implementation of **Tungsten TotalAgility (TA)** and **Process Director** to automate and orchestrate high-volume, unstructured document workflows into an **SAP ERP architecture**.
 *   **Key BA Deliverables Inside:**
     *   **The Business Requirements Document (BRD) Outline:** High-level scope boundaries, current-state manual friction maps, and operational success metric definitions (KPIs).
