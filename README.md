@@ -1,6 +1,6 @@
 # AAFAQ AHMED | Senior Business Analyst Portfolio
 
-Welcome to my professional portfolio. I am a result-driven **Senior Business Analyst and Requirements Specialist** with over 10 years of enterprise software delivery experience. My background bridges the gap between complex document automation, intelligent workflow orchestration (using platforms like **Tungsten TotalAgility**), and strict compliance frameworks across Fintech, Aerospace, and Medical Device sectors.
+Welcome to my professional portfolio. I am a result-driven **Senior Business Analyst and Requirements Specialist** with over 10 years of enterprise software delivery experience. My background bridges the gap between complex document automation, intelligent workflow orchestration, and strict compliance frameworks.
 
 This repository serves as a central hub for my structured BA artifacts, framework case studies, and execution documentation samples.
 
@@ -16,7 +16,7 @@ This repository serves as a central hub for my structured BA artifacts, framewor
 
 ## 📁 Featured Case Studies & Artifacts
 
-### 🔹 [Case Study 1: Enterprise Intelligent Automation & SAP Workflow Orchestration](./AafaqAhmed_CaseStudy.pdf)
+### 🔹 [Case Study](./AafaqAhmed_CaseStudy.pdf)
 An end-to-end framework breakdown detailing the implementation of **Tungsten TotalAgility (TA)** and **Process Director** to automate and orchestrate high-volume, unstructured document workflows into an **SAP ERP architecture**.
 *   **Key BA Deliverables Inside:**
     *   **The Business Requirements Document (BRD) Outline:** High-level scope boundaries, current-state manual friction maps, and operational success metric definitions (KPIs).
