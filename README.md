@@ -1,44 +1,96 @@
-# AAFAQ AHMED | Senior Business Analyst Portfolio
+# Aafaq Ahmed | Business Analyst Portfolio
 
-Welcome to my professional portfolio. I am a result-driven **Senior Business Analyst and Requirements Specialist** with over 10 years of enterprise software delivery experience. My background bridges the gap between complex document automation, intelligent workflow orchestration, and strict compliance frameworks.
+Welcome to my Business Analyst portfolio.
 
-This repository serves as a central hub for my structured BA artifacts, framework case studies, and execution documentation samples.
+I am an enterprise software professional with 10+ years of experience in technical documentation, requirements analysis, stakeholder collaboration, and structured content development across software, aerospace, medical devices, and rail domains.
 
----
+My experience working closely with product teams, software engineers, quality assurance teams, and subject matter experts has helped me develop a strong understanding of software functionality, business rules, system behavior, and complex workflows. I am building on this foundation to apply structured Business Analysis practices to requirements elicitation, process improvement, functional analysis, and solution validation.
 
-## 🛠️ Core Competencies & Ecosystem Expertise
-*   **Requirements Management:** Business Requirements Documents (BRD), Functional Specification Documents (FRD), User Story Mapping, Traceability Matrices (RTM).
-*   **Agile Methodology:** Scrum Implementation, Backlog Refinement, Product Ingestion Workflows, Jira, Azure DevOps (ADO/TFS).
-*   **Process Engineering:** As-Is / To-Be Process Mapping, Swimlane Logic Layouts, Gap Analysis, System Exception Flow Optimization.
-*   **Platforms & Tools:** Tungsten TotalAgility (TA), Process Director, SAP ERP Integration, SQL, Excel Data Analytics, Power BI.
+This repository showcases my Business Analysis learning, practical case studies, and sample deliverables created using simulated business scenarios.
 
 ---
 
-## 📁 Featured Case Studies & Artifacts
+## 🛠️ Core Business Analysis Skills
 
-### 🔹 [Case Study](./AafaqAhmed_CaseStudy.pdf) Click on the Case Study to view it
-An end-to-end framework breakdown detailing the implementation of **Tungsten TotalAgility (TA)** and **Process Director** to automate and orchestrate high-volume, unstructured document workflows into an **SAP ERP architecture**.
-*   **Key BA Deliverables Inside:**
-    *   **The Business Requirements Document (BRD) Outline:** High-level scope boundaries, current-state manual friction maps, and operational success metric definitions (KPIs).
-    *   **The Functional Requirements Document (FRD) Blueprint:** System ingestion parameters, confidence threshold rules ($\ge 95\%$ auto-approval metrics), and exception routing architectures.
-    *   **Agile User Stories:** Detailed business-logic entries formatted with precise **Given-When-Then Acceptance Criteria**.
-    *   **Data Exchange Mapping:** A simplified business-focused data flow schema illustrating field values traversing from cognitive intake layers straight into accounting sub-ledgers.
-*   **Business Impact Proven:** Achieved a **65% Touchless Straight-Through Processing (STP) rate** and reduced processing cycle times from 12 days to under 48 hours.
+- **Requirements Analysis:** Business requirements, functional requirements, user stories, acceptance criteria, requirements validation, and traceability.
+- **Agile Practices:** Scrum concepts, backlog refinement, sprint planning support, Jira, and Azure DevOps (ADO/TFS).
+- **Process Analysis:** As-Is and To-Be process mapping, gap analysis, workflow analysis, exception handling, and process improvement.
+- **Data Analysis:** SQL fundamentals, Excel formulas, lookup functions, PivotTables, data analysis, and Power BI dashboard concepts.
+- **Technical & Domain Knowledge:** Enterprise software, intelligent document processing, workflow automation, SAP integration concepts, and system behavior analysis.
+- **Documentation & Collaboration:** BRD and FRD outlines, functional specifications, stakeholder communication, SME collaboration, and technical documentation.
 
 ---
 
-## 💼 Career History Brief
-*   **Senior Business Analyst / Requirements Specialist** | Tungsten Automation (2022 – 2026)
-    *   Managed functional and system requirements across 5 flagship product lines over 4 major Agile releases per quarter.
-*   **Business Analyst & Systems Compliance Specialist** | L&T Technology Services (2014 – 2022)
-    *   Gathered system requirements for global aerospace platforms and authored compliant functional footprints under US FDA and EU MDR medical regulations.
+## 📁 Featured Case Studies & Portfolio Artifacts
+
+### 🔹 Intelligent Document Processing and Workflow Automation
+
+[**View the Case Study (PDF)**](./AafaqAhmed_CaseStudy.pdf)
+
+A simulated end-to-end Business Analysis case study exploring how an enterprise organization could use Tungsten TotalAgility and Process Director to automate document-intensive business processes and integrate validated information with an SAP ERP system.
+
+**Key Business Analysis deliverables:**
+
+- **Business Requirements:** Business problem statement, objectives, scope, stakeholder needs, and proposed success metrics.
+- **Functional Requirements:** Document ingestion, data extraction, validation rules, confidence thresholds, exception handling, and workflow routing.
+- **Agile User Stories:** Business-focused user stories with Given-When-Then acceptance criteria.
+- **Process Analysis:** Illustrative current-state and future-state workflows, including manual intervention and exception scenarios.
+- **Data Mapping:** Example mappings between extracted document fields and target ERP fields, including validation and transformation considerations.
+- **Success Metrics:** Illustrative KPIs for straight-through processing, processing cycle time, manual intervention, and exception rates.
+
+**Business value:** The case study demonstrates how a Business Analyst can translate a business problem into structured requirements, define measurable outcomes, and support solution design and validation.
+
+*Note: This is a simulated case study. Any numerical targets, process improvements, and business outcomes included in the artifact are illustrative and are not represented as verified customer results.*
+
+---
+
+## 💼 Professional Experience
+
+### Technical Writer / Technical Publications Specialist
+**L&T Technology Services | 2014–2022**
+
+- Collaborated with software engineers and subject matter experts to understand system functionality, clarify requirements, and produce accurate technical documentation.
+- Analyzed engineering inputs, technical specifications, drawings, and customer feedback to identify information gaps and resolve ambiguities.
+- Produced aerospace, software, medical device, and rail documentation in accordance with applicable customer, quality, and regulatory requirements.
+- Analyzed US FDA and EU MDR requirements to support compliant documentation, device labels, and associated deliverables.
+- Conducted documentation quality reviews and internal audits, identified non-conformances, and recommended corrective and preventive actions.
+- Managed documentation workflows, review cycles, and stakeholder feedback to support quality and delivery objectives.
+- Developed reusable documentation templates and standards to improve consistency and support efficient delivery.
+
+### Enterprise Software Documentation Experience
+**Tungsten Automation | 2022–2026**
+
+- Worked with enterprise software products, including Tungsten TotalAgility and ReadSoft Invoices, developing an understanding of product capabilities, business workflows, system behavior, and user needs.
+- Collaborated with product managers, developers, QA engineers, and subject matter experts to clarify product functionality and resolve technical ambiguities.
+- Analyzed product requirements, user stories, functional specifications, and change requests to assess documentation needs and identify dependencies.
+- Translated complex software functionality into structured, user-focused documentation, including product guides, technical specifications, release notes, and online help.
+- Used Azure DevOps and related documentation workflows to track work items, review changes, and coordinate deliverables with cross-functional teams.
+- Applied structured analysis and AI-assisted research and editing techniques to improve documentation workflows and support change-impact assessment.
+
+---
+
+## 🎯 Current Business Analysis Focus
+
+I am strengthening my practical Business Analysis capabilities through portfolio projects and hands-on exercises focused on:
+
+- Requirements elicitation and analysis.
+- BRD and FRD development.
+- User stories and acceptance criteria.
+- As-Is and To-Be process modeling.
+- Data analysis using Excel and SQL.
+- Requirements traceability and change-impact analysis.
+- Business process automation and enterprise workflow solutions.
+
+My goal is to combine my enterprise software domain knowledge and requirements-oriented experience with practical Business Analysis techniques to help teams define problems clearly, document effective solutions, and validate business needs.
 
 ---
 
 ## ✉️ Connect With Me
-*   **Location:** Hyderabad, India  
-*   **Phone:** +91 90363 40786  
-*   **Email:** [aafaq5455@gmail.com](mailto:aafaq5455@gmail.com)  
-*   **Professional Resume:** (./Resume_AafaqAhmed_BusinessAnalyst.pdf)
 
-*(Note to Recruiters: All work samples housed in this repository are mock frameworks constructed using simulated scenarios and generalized system mechanics to ensure absolute compliance with enterprise Non-Disclosure Agreements.)*
+- **Location:** Hyderabad, India
+- **Email:** [aafaq5455@gmail.com](mailto:aafaq5455@gmail.com)
+- **Professional Resume:** [View My Business Analyst Resume](./Resume_AafaqAhmed_BusinessAnalyst.pdf)
+
+---
+
+*Portfolio disclaimer: Case studies and sample deliverables in this repository are created for demonstration and learning purposes using simulated scenarios and generalized system workflows. They do not disclose confidential customer information or represent simulated outcomes as verified business achievements.*
